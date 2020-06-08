@@ -1,6 +1,7 @@
 <?php
 
 
+
 function chargerClasse($classe)
 {
  require $classe . '.php';
